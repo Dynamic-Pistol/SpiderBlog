@@ -2,3 +2,16 @@ baseURL = 'https://dynamic-pistol.github.io/'
 languageCode = 'en-us'
 title = 'SpiderBlog'
 theme = "hugo-ficurinia"
+
+[params]
+    logo = "/logo.svg"
+    favicon = "/favicon.png"
+    faviconIco = "/favicon.ico"
+    appletouch = "/apple-touch-icon.png"
+    svgicon = "/logo.svg"
+    icon512 = "/icon512.png"
+
+    enableSearch = true
+    searchbarEverywhere = true
+    searchMenuLink = false
+    mobileHamburgerNav = false
