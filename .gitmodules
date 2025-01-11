@@ -1,6 +1,3 @@
 [submodule "dynamic-pistol.github.io"]
 	path = dynamic-pistol.github.io
 	url = https://github.com/Dynamic-Pistol/dynamic-pistol.github.io
-[submodule "hugo-ficurinia"]
-	path = hugo-ficurinia
-	url = https://gitlab.com/gabmus/hugo-ficurinia
