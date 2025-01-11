@@ -1,0 +1,4 @@
+baseURL = 'https://dynamic-pistol.github.io.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-ficurinia"
